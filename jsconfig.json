@@ -1,0 +1,5 @@
+{
+    "buildOptions": {},
+    "compilerOptions": {"checkJs": true,"target": "ES2021"},
+    "include": ["util.js"]
+}
